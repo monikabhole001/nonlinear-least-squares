@@ -1,0 +1,17 @@
+[Project]
+CreatedFrom=meson.build
+Manager=KDevMesonManager
+Name=NonLinearLeastSquare
+
+[SourceFormatter]
+OverrideKateIndentation=true
+UseDefault=false
+text/x-c++hdr=kdevcustomscript||clang_format
+text/x-c++src=kdevcustomscript||clang_format
+text/x-chdr=kdevcustomscript||clang_format
+text/x-csharp=kdevcustomscript||clang_format
+text/x-csrc=kdevcustomscript||clang_format
+text/x-java=kdevcustomscript||clang_format
+text/x-objc++src=kdevcustomscript||clang_format
+text/x-objcsrc=kdevcustomscript||clang_format
+text/x-opencl-src=kdevcustomscript||clang_format
