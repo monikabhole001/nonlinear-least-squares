@@ -28,5 +28,4 @@ This project implements a parallelized **Non-Linear Least Squares (NLLS)** solve
 
 ---
 
-## 📁 Project Structure
 
